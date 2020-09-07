@@ -27,7 +27,8 @@
     "@babel/preset-env": "^7.11.5",
     "eslint": "^7.8.1",
     "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.0"
+    "eslint-plugin-import": "^2.22.0",
+    "live-server": "^1.2.1"
   },
   "dependencies": {
     "core-js": "^3.6.5"
